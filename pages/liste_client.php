@@ -1,2 +1,2 @@
 <?php
-yolo;
+Bonjour tous les clients;
